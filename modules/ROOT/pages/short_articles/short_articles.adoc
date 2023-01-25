@@ -1,0 +1,19 @@
+= Short articles
+
+This section contains thots, questions and concurnz on certain existential topics.
+
+== Biomed
+
+* xref:short_articles/biomed/atp-closer-look.adoc[A Closer Look at ATP: The Powerhouse of Cells]
+
+== Tech
+
+== Education
+
+== Mathematics
+
+* xref:short_articles/mathematics/arabic-roots-of-mathematics.adoc[Exploring the Ancient Arabic Roots of Modern Mathematics]
+
+== Other
+
+* xref:short_articles/other/libertarianism-and-eating-disorders.adoc[The Paradox of Libertarianism and Eating Disorders: What’s the Connection?]

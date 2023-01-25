@@ -1,0 +1,29 @@
+= Exploring the Ancient Arabic Roots of Modern Mathematics
+
+image::arabic-roots-of-mathematics.png[]
+
+== Article:
+ 
+
+=== Introduction 
+The contributions of Ancient Arabic mathematicians to the field of mathematics are numerous and wide-reaching. Over the course of their long history, the Ancient Arabs created numerous theories and discoveries that have been fundamental to the development of modern mathematics. In this article, we will explore the history and development of Ancient Arabic mathematics, the influence of their work on modern mathematics, and the implications of their discoveries for the field today. 
+
+
+=== History and Development 
+The Ancient Arabs were some of the first to develop mathematics as a formal field of study. They were able to make significant advances in the field due to their mastery of arithmetic, algebra, and geometry. In particular, Ancient Arab mathematicians are credited with the development of the concepts of zero, negative numbers, and the decimal system. 
+
+One of the most notable Ancient Arab mathematicians was Muhammad ibn Musa al-Khwarizmi, who is credited with the development of algebra and the introduction of the algorithm. Al-Khwarizmi wrote many influential works on mathematics, including a book on algebraic equations, which is considered the foundation of modern algebra. He also wrote a book on the Hindu-Arabic numeral system, which is the foundation of the decimal system in use today. 
+
+Other notable Ancient Arab mathematicians and their contributions include Abu Kamil, who wrote a book on algebraic equations; Abu al-Wafa, who wrote a book on trigonometry; and Ibn al-Haytham, who wrote a book on optics and is credited with the development of the scientific method.
+
+=== Influence on Modern Mathematics 
+The Ancient Arabs’ contributions to mathematics have had a profound influence on modern mathematics. Many of their theories and discoveries are still in use today, such as the decimal system and the algorithm. In addition, their emphasis on the importance of problem-solving and the scientific method has had a lasting impact on the way modern mathematics is taught and practiced. 
+
+Common themes between Ancient Arabic mathematics and modern mathematics include the use of algebraic equations and the development of the algorithm. In addition, the Ancient Arabs’ emphasis on problem-solving and the scientific method is still seen in modern mathematics. Examples of Ancient theories in use today include the use of negative numbers in calculations, the use of the decimal system in calculations, and the use of algebraic equations to solve problems. 
+
+=== Conclusion 
+The Ancient Arabs’ contributions to mathematics have been immense and far-reaching. Through their work, they developed numerous theories and discoveries that are still in use today. These include the decimal system, the algorithm, and the use of algebraic equations. In addition, their emphasis on problem-solving and the scientific method has had a lasting impact on modern mathematics. 
+
+Overall, the Ancient Arabs’ contributions to mathematics have been invaluable, and their influence can still be seen in modern mathematics today.
+
+

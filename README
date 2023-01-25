@@ -49,4 +49,7 @@ The result will be available at http://localhost:8080
 Resources I used as a reference:
 * Fedora Docs Template -- https://github.com/containers/docs#readme
 * Spring Boot Documentation -- https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+* CS50 Syllabus -- https://cs50.harvard.edu/college/2023/spring/syllabus/
 * Antora Documentation -- https://docs.antora.org/antora/latest/
+* Alpine Linux docs  -- https://docs.alpinelinux.org/user-handbook/0.1a/index.html
+* VSHN Handbook -- https://handbook.vshn.ch/index.html

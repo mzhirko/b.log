@@ -1,11 +1,9 @@
-= Fedora Container & Tools Documentation
+= B.LOG(zhirkoms)
 
-link:introduction/index.html[Introduction & How to Get Started]
+link:intro/index.html[Intro]
 
-link:tools/index.html[Tools & Ecosystem]
+link:cv/index.html[Résumé]
 
-link:guidelines/guidelines/index.html[Guidelines]
+link:short_articles/short_articles/index.html[Short articles]
 
-link:buildsys/index.html[Build System]
-
-link:community/index.html[Community]
+link:materials/materials/index.html[Useful materials]
