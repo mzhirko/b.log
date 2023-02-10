@@ -10,6 +10,8 @@ This section contains thots, questions and concurnz on certain existential topic
 
 == Education
 
+* xref:short_articles/education/english-tests.adoc[Hands-on effectiveness of English tests and approaches to grinding them]
+
 == Mathematics
 
 * xref:short_articles/mathematics/arabic-roots-of-mathematics.adoc[Exploring the Ancient Arabic Roots of Modern Mathematics]

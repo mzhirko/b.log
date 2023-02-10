@@ -1,0 +1,213 @@
+= Hands-on effectiveness of English tests and approaches to grinding them
+
+== Disclaimer
+
+This article discusses different ways of tackling the TOEFL exam, but I am convinced that these methods would work effectively for any language proficiency exam, as the high-level preparation process is still the same.
+
+== Intro
+
+The language assessment test is a compulsory part when it comes to considering educational opportunities abroad. It's a common misconception that these tests are tailored to test one's foreign language level. Concluding my personal experience, I would rather say that as with most language tests, these check your ability to effectively navigate through its structure and act in correspondence with answer patterns. 
+
+== What are test options?
+
+There exist few tests to choose from. Most institutions abroad will accept these tests as a grant for English-speaking abilities. It is important to check up on university requirements first. Although I would consider the following as the rule of thumb:
+
+[cols="1,1"]
+|===
+|Test name |Min. valid score range 
+
+|https://www.ets.org/toefl.html[TOEFL]
+| 90-100
+
+|https://www.ielts.org/[IELTS] 
+| 7-7.5
+
+|https://englishtest.duolingo.com[DET] 
+| 120-125
+
+|https://www.cambridgeenglish.org/exams-and-tests/advanced/[Cambridge English Qualifications C1-C2] 
+| 185-190
+
+|https://www.pearsonpte.com/[Pearson Test of English (PTE) Academic] 
+| 65-70
+|===
+
+
+== Approaching preparation process
+
+.Steps to prepare for a test:
+. Solve 3 online tests;
+. Practice reading;
+. Practice listening;
+. Practice note-taking & speaking;
+. Practice essay writing.
+
+=== Practice tests
+
+This will come in handy to understand the tension and time required to get through the real-life test.
+
+General recommendations:
+
+* Go through a few tests to get acquainted with the test structure and understand the question types;
+* Try to complete each full-size test in one sit (this is tedious but helps to understand the attention span);
+* Take notes of questions that were solved incorrectly during this test.
+
+== Reading
+
+This section is the hardest imo, as it requires an attentive attitude for a prolonged term.
+
+.Steps to approach the reading section:
+. Allocate 15-16 mins to get through each article;
+. Put attention to the first paragraph, it introduces the most important details;
+. It is important to understand and remember the first 2-3 sentences thoroughly;
+. Read only paragraphs requested by questions;
+. Mark questions that were solved incorrectly, analyze their type, and understand how the correct answer is formed;
+. Solve as many questions of "incorrect" type (I would recommend asking chatGPT to generate 10-15 similar questions);
+. Before answering the summary question, read the introductory sentence carefully and recall the main points;
+. Practice until you start acquiring a perfect score continuously.
+
+== Listening
+
+This is the easiest section of the exam, the skill can be easily improved by analyzing song texts/listening to your favorite podcast/watching movies or lectures. The most important part there is to learn how to listen and be able to recall the presented material.
+
+The key approach there is to rely on short-term memory and *LISTEN*.
+
+Note-taking is not restricted, however, I would recommend using it wisely and only marking really specific highly-weighted words that seem too hard to remember without losing the story thread.
+
+== Speaking
+
+This part requires the ability to speak up on any topic coherently and promptly.
+
+.Steps to get prepared for the speaking section:
+. Use applications that require you to develop talks on absurd topics, and develop well-thought answers while using such apps. This helps to come up with arguments at a faster pace;
+. Find a list of TOEFL questions, start practicing;
+. Record your answers -> listen -> highlight a few minor points to improve in the recorded answer -> re-record the improved answer;
+. Get speech practice, either in a speaking club / clubhouse / social networks or at work;
+. Listen to native speakers, and mimic their speech manner to sound closer to native;
+. Use templates!
+
+=== Speaking templates:
+
+.Resources I found helpful while creating personal speaking templates:
+. https://youtu.be/_F5DufM-J4k;
+. https://mpreserverdata.blob.core.windows.net/data/cms/files/e9bb8b53cd584b60ba7c874da03b994ea3c93c5248314c68b196d28519445f7d.pdf?utm_source=marina_english&utm_medium=youtube&utm_campaign=toefl_200919[PDF link;] 
+. https://youtu.be/UvzY0vKaSLY.
+
+== Writing
+
+I would recommend practicing TOEFL-structured writing on a daily for 2-4 weeks.
+One way I approached independent writing is by using GPT-3 API to generate essay topics and score written texts.
+
+It's important to use templates as they are proven to save time on structure composing, allowing one to concentrate on forming a strong opinion on a topic.
+
+I will attach my templates, however, keep in mind that each of them should align with your writing manner, so it is important to tailor them to oneself before using.
+
+https://github.com/mzhirko/essay-scorer[Script to practice independent writing with GPT;]
+
+.Steps to approach *integrated* writing:
+. Read the full passage attentively before making notes;
+. Note the high-level description of 3-4 points that were stated in the reading paragraph;
+. Put attention to details while listening to the lecture;
+. Write down main points + important minor details;
+. When writing the essay, describe the opinions stated in reading and listening as 1:2. So, 2 sentences describing the listening passage per each reading-sentence;
+. Use templates!
+
+=== *Integrated* writing templates:
+.Template 1:
+. The conversation/dispute turns around ...
+. (First argument). Smb1 claims that... On the other hand, smb2 mentions that.
+. (Second argument) of smb1 described... The smb2 mentions that...
+. The last reason a writer points out is that... The smb2 disagrees at this point, claiming that...
+. So, in conclusion...
+
+.Template 2:
+. The speaker opposes the opinion of the writer that...
+. The writer relies firstly on the fact that... The speaker points out that...
+. Secondly, smb points to the clear resemblance of... The smb acknowledges the resemblance but points it out as...
+. There is an expert opinion identifying...
+. Finally, the speaker demolishes the writer's contribution of ..., by adducing the evidence that...
+
+.Template 3:
+. The reading passage states that ..., while the listening argues that...
+. The reading passage claims that ... is the best approach to ..., while the listening passage presents a different viewpoint, suggesting that ... is more effective in achieving...
+. Both passages discuss the advantages and disadvantages of each approach, but the reading argues that ... is the more advantageous option, due to .... Conversely, the listening passage argues that ... is the better option because...
+. Ultimately, both passages offer valid points and it is difficult to choose one approach over the other. Both methods have their benefits and drawbacks.
+
+.Steps to approach *independent* writing section:
+. Consider your fundamental opinion, and write it down;
+. Briefly write down 2 examples that would support the stated opinion;
+. Start extending brief notes as you're done considering;
+. Don't overthink your opinions while writing the answer down;
+. Don't allude to tangled opinions that might be too complicated to describe in 1-2 sentences;
+. Get yourself 5 minutes to reread the finished essay;
+. Get rid of typos;
+. Use templates!!!
+
+=== *Independent* writing template:
+
+.Template:
+. There is no shortage of opinion on ... . In my opinion ... . *OR* No one can deny that there are both positive and negative aspects of _paraphrased question_. If I were forced to choose, I would definitely... It is my firm belief that ... for several reasons.
+. To begin with ... . I admit that my opinion on that matter has been profoundly influenced by my personal experience... As a result... For this reason...
+. Secondly, ... . Drawing from my own experience .... Moreover... It's certainly clear that...
+. In light of the above-mentioned reasons, I strongly believe that...
+
+.Surprisingly uncomplicated transition and filler words to use in the essay:
+. assert;
+. distortion;
+. disembowel;
+. detrimental;
+. immense;
+. escalate;
+. allude to/anticipate;
+. insinuate;
+. disregard;
+. haphazard;
+. cramming;
+. resembling;
+. solitude;
+. critical/crucial;
+. compulsory;
+. irrevocably;
+. key role;
+. undoubtedly;
+. inasmuch as;
+. on the contrary/after all
+. all things considered;
+. to clarify;
+. generally speaking;
+. that is to say;
+. mainly;
+. condemn;
+. despite;
+. likewise/equally;
+. simultaneously;
+. nevertheless;
+. conversely/in spite of/similarly/at the same time;
+. under those circumstances;
+. thus;
+. thereupon;
+. henceforth;
+. foundationally;
+. given these points;
+. taking everything into account.
+
+== Resources and links
+
+.Books:
+. https://v2.ereg.ets.org/ereg/public/testPrep/viewtestPreparation?_p=TEL[The Official Guide to the TOEFL iBT Test;]
+. https://www.amazon.com/Princeton-Review-TOEFL-Listening-Tracks/dp/0525572104[Princeton Review TOEFL iBT Prep.]
+
+.Speaking apps:
+. https://app.ultraspeaking.com/games/home[Ultraspeaking.]
+
+.YouTube practice:
+. https://www.youtube.com/@TSTPrep[TSTPrep;]
+. https://www.youtube.com/@linguamarina[linguamarina;]
+. https://www.youtube.com/@sybilxwang[sybilwang.]
+
+.Online prep & apps:
+. https://play.google.com/store/apps/details?id=org.ets.MTPO&hl=pl&gl=US[TOEFL Go;]
+. https://toefl.magoosh.com/[Magoosh;]
+. https://www.bestmytest.com/toefl/lessons[BestMyTest.]
+
+== Best of luck!
