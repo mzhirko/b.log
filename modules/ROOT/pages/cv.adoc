@@ -1,6 +1,6 @@
 = Maria Zhirko
 
-== AI Engineer
+== Machine Learning Engineer
 Location | Wrocław, Poland +
 Gmail | mailto:mzhirko@gmail.com[mzhirko@gmail.com,role=email] +
 Github | https://github.com/mzhirko[mzhirko] +
@@ -8,7 +8,7 @@ LinkedIn | https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
 
 [#it-skills]
 == Skills
-'''
+
 === Software Development:
 *Programming languages:* Python, C++, Java, SQL, Bash; +
 *Frameworks:* numpy, pandas, matplotlib, OpenCV, Keras; +
@@ -20,7 +20,7 @@ LinkedIn | https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
 
 [#language-skills]
 == Language Skills
-'''
+
 *English:* C1; +
 *German:* A2-B1; +
 *Polish:* A2-B1; +
@@ -32,15 +32,15 @@ LinkedIn | https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
 
 * 05.2021 - Present: _Machine Learning Engineer_ @ *Qulix Systems;*
 
+[#volunteering]
+== Volunteer Experience
+
+* 2022.06 - 2022.09: _Data Analyst_ @ *United Nations Development Coordination Office*;
+* 2021.08 - 2021.09: _Head of Volunteer Team_ @ *DEBRA International Congress*.
+
 [#publications]
 == Publications
 
 * https://its.bsuir.by/m/12_130111_1_157684.pdf#Item.256[Segmentation of Brain Tumor Multi-Parametric MRI Scans using Artificial Neural Networks];
 * https://libeldoc.bsuir.by/bitstream/123456789/36165/1/Zhirko_Politizatsiya.pdf[Politicization in Science];
 * https://www.qulix.com/about/blog/artificial-intelligence-in-stock-trading/[Artificial Intelligence in Stock Trading].
-
-[#volunteering]
-== Volunteer Experience
-
-* 2022.06 - 2022.09: _Data Analyst_ @ *United Nations Development Coordination Office*;
-* 2021.08 - 2021.09: _Head of Volunteer Team_ @ *DEBRA International Congress*.

@@ -1,9 +1,9 @@
 = B.LOG(zhirkoms)
 
-link:intro/index.html[Intro]
+link:intro.html[Intro]
 
-link:cv/index.html[Résumé]
+link:cv.html[Résumé]
 
-link:short_articles/short_articles/index.html[Short articles]
+link:short_articles/short_articles.html[Short articles]
 
-link:materials/materials/index.html[Useful materials]
+link:materials/materials.html[Useful materials]

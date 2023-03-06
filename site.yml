@@ -1,5 +1,14 @@
+urls:
+  latest_version_segment: latest
+  latest_version_segment_strategy: redirect:to
+
+
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'
+
 site:
-  title: Blog Local Preview
+  title: ==B.LOG(zhirkoms)==
   start_page: blog::index.adoc
 content:
   sources:
@@ -7,7 +16,7 @@ content:
      branches: HEAD
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    url: https://github.com/opendevstack/ods-docs-ui/releases/download/v2.0.0/ui-bundle.zip
     snapshot: true
 output:
   clean: true

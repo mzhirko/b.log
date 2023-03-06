@@ -1,7 +1,9 @@
 #!/bin/sh
 
 image="docker.io/antora/antora"
-cmd="--html-url-extension-style=indexify site.yml"
+cmd=" --extension @antora/lunr-extension site.yml"
+
+npm i @antora/lunr-extension
 
 if uname | grep -iwq darwin; then
     # Running on macOS.
