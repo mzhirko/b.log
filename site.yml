@@ -18,6 +18,12 @@ ui:
   bundle:
     url: https://github.com/opendevstack/ods-docs-ui/releases/download/v2.0.0/ui-bundle.zip
     snapshot: true
+  supplemental_files:
+  - path: ui.yml
+    contents: |
+      static_files:
+      - .nojekyll
+  - path: .nojekyll
 output:
   clean: true
   dir: ./public
