@@ -1,0 +1,40 @@
+name: Build and publish
+
+on:
+  push:
+    branches:
+      - "main"
+  pull_request:
+    branches:
+      - "main"
+
+jobs:
+  build:
+
+    if: "! contains(toJSON(github.event.commits.*.message), '[ci skip]')"
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: 16
+    - uses: rlespinasse/github-slug-action@v4.x
+    - name: Install antora
+      run: |
+        npm i @antora/cli@3.1 @antora/site-generator@3.1 @antora/lunr-extension
+        npm install
+    - name: Cleanup public folder
+      run: |
+        ls -l public/*
+        rm -rf public/*
+    - name: Render site
+      run: |
+        npx antora --version
+        npx antora generate --silent --clean --fetch site.yml
+    - name: Publish site
+      shell: bash
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        ./.github/workflows/push.sh
