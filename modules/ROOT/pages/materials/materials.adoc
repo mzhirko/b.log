@@ -1,5 +1,0 @@
-== Useful materials
-
-* xref:materials/books.adoc[Books]
-* xref:materials/articles.adoc[Articles]
-* xref:materials/other_resources.adoc[Other resources]

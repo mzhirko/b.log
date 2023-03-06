@@ -1,9 +1,0 @@
-= B.LOG(zhirkoms)
-
-link:intro.html[Intro]
-
-link:cv.html[Résumé]
-
-link:short_articles/short_articles.html[Short articles]
-
-link:materials/materials.html[Useful materials]

@@ -1,6 +1,0 @@
-* xref:cv.adoc[Résumé]
-* xref:materials/materials.adoc[Useful materials]
-** xref:materials/books.adoc[Books]
-** xref:materials/articles.adoc[Articles]
-** xref:materials/other_resources.adoc[Other resources]
-* xref:short_articles/short_articles.adoc[Short Articles]
