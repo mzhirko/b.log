@@ -1,40 +1,23 @@
-name: Build and publish
-
+name: Publish to GitHub Pages with Lunr Search Extension
 on:
   push:
-    branches:
-      - "main"
-  pull_request:
-    branches:
-      - "main"
-
+    branches: [main]
 jobs:
   build:
-
-    if: "! contains(toJSON(github.event.commits.*.message), '[ci skip]')"
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-    - uses: actions/setup-node@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Install Node.js
+      uses: actions/setup-node@v2
       with:
-        node-version: 16
-    - uses: rlespinasse/github-slug-action@v4.x
-    - name: Install antora
-      run: |
-        npm i @antora/cli@3.1 @antora/site-generator@3.1 @antora/lunr-extension
-        npm install
-    - name: Cleanup public folder
-      run: |
-        ls -l public/*
-        rm -rf public/*
-    - name: Render site
-      run: |
-        npx antora --version
-        npx antora generate --silent --clean --fetch site.yml
-    - name: Publish site
-      shell: bash
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        ./.github/workflows/push.sh
+        node-version: '16'
+    - name: Install Antora and the Antora Lunr Extension
+      run: npm i antora @antora/lunr-extension
+    - name: Generate Site
+      run: npx antora site.yml
+    - name: Publish to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: build/site
