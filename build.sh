@@ -3,7 +3,13 @@
 image="docker.io/antora/antora"
 cmd=" --extension @antora/lunr-extension site.yml"
 
-npm i @antora/lunr-extension
+# Check if @antora/lunr-extension is installed and install it if not
+if ! npm ls @antora/lunr-extension > /dev/null 2>&1; then
+    echo ""
+    echo "The @antora/lunr-extension is not installed. Installing it now..."
+    echo ""
+    npm i @antora/lunr-extension
+fi
 
 if uname | grep -iwq darwin; then
     # Running on macOS.
