@@ -1,0 +1,34 @@
+= Homo Zwischens
+
+image::homo-zwischens.png[]
+
+== Intro
+
+Imagine arriving at the store and walking up to the counter with an item that you are looking for. The item you need is sold in two forms: in a smaller pack with a lower price, and in a larger pack with a correspondingly higher price. You are not able to notice the correlation between the prices, and you stand there wondering which one of the purchases is the most profitable for you... 
+
+== Zwischenism -- perspective on resolving contradictions
+
+Difficulty in resolving contradictions has been a problem in people's minds for many years. Often under the influence of certain conditions and factors, people experience difficulty in making a choice, and confusion may arise not only in the mind of an individual but also in society as a whole. This phenomenon has been called **zwischenism**.  Zwischenism is an opposition to stability. 
+
+.According to Kharin Y.A.:
+[quote,Human. Culture. Synergy.]
+the term denotes the "inter-being" of a person in a state of spiritual values crisis, in the presence of choice alternatives, uncertainty, and vagueness, the predominance of spontaneity in human actions associated with value and ideological disorientation.
+
+== Progress of human thought
+
+In the context of the development of human and, consequently, technological thought as well as the accompanying information flow, this problem may be difficult to solve, since society, through the instant accessibility of any kind of knowledge about a certain product or creation, has a variety of opinions and a variety of levels of understanding of everything happening around it. Modern human beings have to surpass their predecessors in the ability to assimilate information and the skill to process it. The number of technological and scientific developments that require our attention and ability to deal with new materials is constantly increasing. This simultaneously complicates and simplifies the decision-making process. On the one hand, there are techniques to increase the efficiency in perceiving reality and the reliability of the information obtained, eliminating the factor of uncertainty. On the other hand, there is even more information that requires attention and detailed analysis with the subsequent analysis of conclusions. It turns out that the more a person poses a question, the more solutions he finds, and the more contradictions and ambiguities arise in the process of trying to get a reasonable answer.     Given the context of the modern world, in which many different ideologies and opinions coexist, it is very difficult to determine the proper and most effective solution in a given situation.
+
+It would be much easier from a certain point of view if such tasks were solved by an objective comparison of all incoming information. An automated system for the comparison of incoming data, which is sorted through specialized databases, is an excellent solution for this issue. It would be more effective to expand the capabilities of, for example, artificial intelligence, in the analysis of information, its identification, and ordering by certain criteria.      It would be much more unbiased to have a cold-blooded response from a system that does not take into consideration subjective human attitudes to the question at hand and the human factor of inaccuracy as such.   And it would likewise be easier to predict the outcome of a vaguely formulated law by prototyping it in an "experimental society."
+
+However, certain issues related to human existence cannot be solved by a cold-blooded highly intelligent system, because the awareness and resolution of an existential psychological zwischenism, which concerns the disruption of personal feelings, doubts, borderline situations, moments of despair and negativism, the torments of creativity and the joy of intellectual insight, require subjective experience of addressing a similar problem by individuals who have already encountered it, as well as the reflexive approach of the individual who has faced it since many of the answers to the existential questions that concern us often reside within us.
+
+The state of "inter-being" is undoubtedly created by the individual themselves. Among the main existing forms of the phenomenon considered we can distinguish: ontic - a situation in relation to oneself, with another person, social group, society - intercultural, inter-civilizational, interconfessional, and other states of marginality. Existential - being in personal boundary situations - between hatred and love, reason and passions, hope and despair, etc. Spiritual values - oscillation between natural and divine, freedom and arbitrariness, materialism and idealism, totalitarianism and democracy, orientations "to be" and "to have", "to believe" and "to be able", etc. practical - uncertainty of attitude to contemplation or social action, destruction or creativity, conformism or struggle, spontaneity or organization.
+
+== "The solution"
+
+Thus, zwisсhenism appears to be a rather widespread issue today, with a rather simple solution regarding the practical part and a rather complicated one regarding the spiritual, and personal part, whereas human stupidity, on the one hand, and the complexity of personal structure, on the other, do not allow to fully understand and eradicate the phenomenon in question. In spite of the fact that we associate this age with a great development of mathematical logic in people and, as a consequence, improvement of knowledge structuring in people's heads, it is not possible to eliminate zwichenism, at least partially. Nevertheless, eradication of zwichenism seems to be unnecessary, since uncertainty and human unpredictability are what make everyone around not robots but human beings.
+
+== Literature sources
+1. https://studfile.net/preview/1558656/page:4/[Y.A. Kharin -- Human. Culture. Synergy.]
+2. https://vikidalka.ru/2-177958.html
+3. https://socioline.ru/files/5/39/bauman_zigmunt_-_individualizirovannoe_obshchestvo-2005.pdf[Zygmunt Bauman -- THE INDIVIDUALIZED SOCIETY]

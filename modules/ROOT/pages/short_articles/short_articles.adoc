@@ -1,6 +1,6 @@
 = Short articles
 
-This section contains thots, questions and concurnz on certain existential topics.
+This section contains a well-written collection of my personal thots, questions and concurnz on certain existential topics.
 
 == Biomed
 
@@ -18,4 +18,5 @@ This section contains thots, questions and concurnz on certain existential topic
 
 == Other
 
+* xref:short_articles/other/homo-zwischens.adoc[Homo Zwischens]
 * xref:short_articles/other/libertarianism-and-eating-disorders.adoc[The Paradox of Libertarianism and Eating Disorders: What’s the Connection?]
