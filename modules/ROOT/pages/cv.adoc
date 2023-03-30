@@ -30,6 +30,7 @@ LinkedIn | https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
 [#education]
 == Education
 * 09.2018 - 06.2022: _Belarusian State University of Informatics and Radioelectronics;_ *Degree:  Artificial Intelligence;*
+
 Thesis title: https://github.com/mzhirko/thesis-project[Intellectual system of forming text descriptions of investment activities.]
 
 [#work-experience]

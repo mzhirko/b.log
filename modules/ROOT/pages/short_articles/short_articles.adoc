@@ -15,6 +15,7 @@ This section contains a well-written collection of my personal thots, questions 
 == Mathematics
 
 * xref:short_articles/mathematics/arabic-roots-of-mathematics.adoc[Exploring the Ancient Arabic Roots of Modern Mathematics]
+* xref:short_articles/mathematics/veiled-relativity.adoc[Veiled relativity theory]
 
 == Other
 
