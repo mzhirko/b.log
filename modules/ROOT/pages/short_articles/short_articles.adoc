@@ -21,4 +21,3 @@ This section contains a well-written collection of my personal thots, questions 
 == Other
 
 * xref:short_articles/other/homo-zwischens.adoc[Homo Zwischens]
-* xref:short_articles/other/libertarianism-and-eating-disorders.adoc[The Paradox of Libertarianism and Eating Disorders: What’s the Connection?]
