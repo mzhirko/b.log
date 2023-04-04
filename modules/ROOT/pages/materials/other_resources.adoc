@@ -1,19 +1,20 @@
 = Other resources
 
 == Machine Learning
-* https://mlu-explain.github.io/[MLU Amazon];
-* http://clinicalml.org/publication/[MIT Clinical ML Publications];
-* https://pennylane.ai/qml/[Quantum Machine Learning];
+* https://mlu-explain.github.io/[MLU Amazon]
+* http://clinicalml.org/publication/[MIT Clinical ML Publications]
+* https://pennylane.ai/qml/[Quantum Machine Learning]
 
 == Medicine
-* https://www.genome.gov/genetics-glossary[Glossary of Genomic and Genetic Terms];
-* https://collections.plos.org/collection/translational-bioinformatics/[Translational Bioinformatics];
+* https://www.genome.gov/genetics-glossary[Glossary of Genomic and Genetic Terms]
+* https://collections.plos.org/collection/translational-bioinformatics/[Translational Bioinformatics]
+* https://www.who.int/classifications/classification-of-diseases[International Classification of Diseases]
 
 == TCGA web resources
-* https://portal.gdc.cancer.gov/[GDC];
-* http://www.cbioportal.org/[cBIO];
-* https://xenabrowser.net/[UCSC Xena Browser];
-* http://firebrowse.org/[Firebrowse];
+* https://portal.gdc.cancer.gov/[GDC]
+* http://www.cbioportal.org/[cBIO]
+* https://xenabrowser.net/[UCSC Xena Browser]
+* http://firebrowse.org/[Firebrowse]
 
 == Events
-* https://calendar.mit.edu/[MIT Events];
+* https://calendar.mit.edu/[MIT Events]

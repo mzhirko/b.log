@@ -1,4 +1,10 @@
 = Articles
 
-* https://www.ijstr.org/final-print/nov2019/Classifying-Network-Traffic-Using-Dpi-And-Dfi.pdf[Classifying Network Traffic Using DPI And DFI;]
+* https://www.ijstr.org/final-print/nov2019/Classifying-Network-Traffic-Using-Dpi-And-Dfi.pdf[Classifying Network Traffic Using DPI And DFI]
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8388126/[Mechanism and Applications of CRISPR/Cas-9-Mediated Genome Editing]
+* https://arxiv.org/pdf/1311.2901.pdf[Visualizing and Understanding Convolutional Networks]
+* https://arxiv.org/pdf/1406.2661v1.pdf[Generative Adversarial Nets]
+* https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf[Deep learning]
+* https://arxiv.org/abs/2006.11239[https://arxiv.org/abs/2006.11239]
+* https://arxiv.org/abs/1706.03762[Attention Is All You Need]
+* https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2892746/pdf/nihms100405.pdf[Machine learning classifiers and fMRI: a tutorial overview]

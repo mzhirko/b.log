@@ -22,3 +22,9 @@
 * Martin Fowler -- Refactoring;
 * Steve McConnell -- Code Complete;
 * Robert C. Martin -- Clean Code: A Handbook of Agile Software Craftsmanship;
+
+== Medicine
+* Eric Kandel, James Schwartz-- Principles of Neural Science;
+* Martin D. Abeloff, James O. Armitage -- Abeloff's Clinical Oncology;
+* Richard Dawkins -- The Selfish Gene;
+* S.J. McPhee, M.A. Papadakis, and L.M. Tierney, Jr., eds -- Current Medical Diagnosis and Treatment;
