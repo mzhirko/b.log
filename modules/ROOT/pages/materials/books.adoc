@@ -1,30 +1,32 @@
 = Books
 
 == Arduino
-* Jonathan Oxer and Hugh Blemings -- Practical Arduino: Cool Projects for Open Source Hardware;
+* Jonathan Oxer and Hugh Blemings -- Practical Arduino: Cool Projects for Open Source Hardware
 
 == Business Analysis
-* Karl E. Wiegers -- Software Requirements;
+* Karl E. Wiegers -- Software Requirements
 
 == Design
-* Erich Gamma and Richard Helm -- Design Patterns: Elements of Reusable Object-Oriented Software;
+* Erich Gamma and Richard Helm -- Design Patterns: Elements of Reusable Object-Oriented Software
+* Martin Kleppmann -- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+* Chip Huyen -- Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications
 
 == DevOps
-* Kief Morris -- Infrastructure as Code;
+* Kief Morris -- Infrastructure as Code
 
 == Linux
-* Brian W. Kernighan -- https://people.computing.clemson.edu/~dhouse/courses/405/docs/unix4beg.pdf[UNIX For Beginners];
+* Brian W. Kernighan -- https://people.computing.clemson.edu/~dhouse/courses/405/docs/unix4beg.pdf[UNIX For Beginners]
 
 == Networks
-* Andrew S. Tanenbaum, David J. Wetherall -- Computer Networks;
+* Andrew S. Tanenbaum, David J. Wetherall -- Computer Networks
 
 == Programming
-* Martin Fowler -- Refactoring;
-* Steve McConnell -- Code Complete;
-* Robert C. Martin -- Clean Code: A Handbook of Agile Software Craftsmanship;
+* Martin Fowler -- Refactoring
+* Steve McConnell -- Code Complete
+* Robert C. Martin -- Clean Code: A Handbook of Agile Software Craftsmanship
 
 == Medicine
-* Eric Kandel, James Schwartz-- Principles of Neural Science;
-* Martin D. Abeloff, James O. Armitage -- Abeloff's Clinical Oncology;
-* Richard Dawkins -- The Selfish Gene;
-* S.J. McPhee, M.A. Papadakis, and L.M. Tierney, Jr., eds -- Current Medical Diagnosis and Treatment;
+* Eric Kandel, James Schwartz-- Principles of Neural Science
+* Martin D. Abeloff, James O. Armitage -- Abeloff's Clinical Oncology
+* Richard Dawkins -- The Selfish Gene
+* S.J. McPhee, M.A. Papadakis, and L.M. Tierney, Jr., eds -- Current Medical Diagnosis and Treatment

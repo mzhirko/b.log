@@ -5,6 +5,6 @@
 * https://arxiv.org/pdf/1311.2901.pdf[Visualizing and Understanding Convolutional Networks]
 * https://arxiv.org/pdf/1406.2661v1.pdf[Generative Adversarial Nets]
 * https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf[Deep learning]
-* https://arxiv.org/abs/2006.11239[https://arxiv.org/abs/2006.11239]
+* https://arxiv.org/abs/2006.11239[Denoising Diffusion Probabilistic Models]
 * https://arxiv.org/abs/1706.03762[Attention Is All You Need]
 * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2892746/pdf/nihms100405.pdf[Machine learning classifiers and fMRI: a tutorial overview]

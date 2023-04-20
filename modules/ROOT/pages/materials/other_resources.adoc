@@ -4,6 +4,8 @@
 * https://mlu-explain.github.io/[MLU Amazon]
 * http://clinicalml.org/publication/[MIT Clinical ML Publications]
 * https://pennylane.ai/qml/[Quantum Machine Learning]
+* https://lena-voita.github.io/nlp_course.html[NLP Course (Lena Voita)]
+* https://jalammar.github.io/[Visualised NLP Blog (Jay Alammar)]
 
 == Medicine
 * https://www.genome.gov/genetics-glossary[Glossary of Genomic and Genetic Terms]
