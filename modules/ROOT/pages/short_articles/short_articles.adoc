@@ -8,6 +8,9 @@ This section contains a well-written collection of my personal thots, questions 
 
 == Tech
 
+* xref:short_articles/tech/tldr-rlhf.adoc[TL;DR -- RLHF]
+
+
 == Education
 
 * xref:short_articles/education/english-tests.adoc[Hands-on effectiveness of English tests and approaches to grinding them]
