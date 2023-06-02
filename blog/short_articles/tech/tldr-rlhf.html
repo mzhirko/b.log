@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>TL;DR RLHF :: &#x3D;&#x3D;B.LOG(zhirkoms)&#x3D;&#x3D;</title>
+    <meta name="generator" content="Antora 3.1.3">
+    <link rel="stylesheet" href="../../../_/css/site.css">
+    <script>var uiRootPath = '../../../_'</script>
+  </head>
+  <body class="article">
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="../../..">&#x3D;&#x3D;B.LOG(zhirkoms)&#x3D;&#x3D;</a>
+      <div class="navbar-item search hide-for-print">
+        <div id="search-field" class="field">
+          <input id="search-input" type="text" placeholder="Search the docs">
+        </div>
+      </div>
+      <button class="navbar-burger" data-target="topbar-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="">Home</a>
+      </div>
+    </div>
+  </nav>
+</header>
+<div class="body">
+<div class="nav-container" data-component="blog" data-version="master">
+  <aside class="nav">
+    <div class="panels">
+<div class="nav-panel-menu is-active" data-panel="menu">
+  <nav class="nav-menu">
+    <h3 class="title"><a href="../../index.html">B.LOG()</a></h3>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="0">
+<ul class="nav-list">
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="../../cv.html">Résumé</a>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="../../materials/materials.html">Useful materials</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="../../materials/books.html">Books</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="../../materials/articles.html">Articles</a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="../../materials/other_resources.html">Other resources</a>
+  </li>
+</ul>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="../short_articles.html">Short Articles</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </nav>
+</div>
+<div class="nav-panel-explore" data-panel="explore">
+  <div class="context">
+    <span class="title">B.LOG()</span>
+    <span class="version">master</span>
+  </div>
+  <ul class="components">
+    <li class="component is-current">
+      <a class="title" href="../../index.html">B.LOG()</a>
+      <ul class="versions">
+        <li class="version is-current is-latest">
+          <a href="../../index.html">master</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+    </div>
+  </aside>
+</div>
+<main class="article">
+<div class="toolbar" role="navigation">
+<button class="nav-toggle"></button>
+  <a href="../../index.html" class="home-link"></a>
+<nav class="breadcrumbs" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="../../index.html">B.LOG()</a></li>
+    <li><a href="tldr-rlhf.html">TL;DR RLHF</a></li>
+  </ul>
+</nav>
+  <div class="edit-this-page"><a href="https://github.com/mzhirko/b.log/edit/main/modules/ROOT/pages/short_articles/tech/tldr-rlhf.adoc">Edit this Page</a></div>
+  </div>
+  <div class="content">
+<aside class="toc sidebar" data-title="Contents" data-levels="2">
+  <div class="toc-menu"></div>
+</aside>
+<article class="doc">
+<h1 class="page">TL;DR RLHF</h1>
+<div id="preamble">
+<div class="sectionbody">
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+<div class="paragraph">
+<p>This is a document with notes(mostly extractive) on the topic of RLHF. Check the full resources in the literature section below.</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rlhfreinforcement_learning_from_human_feedback"><a class="anchor" href="#_rlhfreinforcement_learning_from_human_feedback"></a><strong>RLHF&#8201;&#8212;&#8201;Reinforcement Learning from Human Feedback.</strong></h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_development_process_of_llms"><a class="anchor" href="#_development_process_of_llms"></a>Development process of LLMs:</h2>
+<div class="sectionbody">
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Model is trained on various indiscriminate data;</p>
+</li>
+<li>
+<p>Then it is fine-tuned on higher quality data. The result of these actions is called SFT&#8201;&#8212;&#8201;supervised fine-tuning;</p>
+</li>
+<li>
+<p>RLHF is making model more customer appropriate.</p>
+</li>
+</ol>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_language_model_development_basics"><a class="anchor" href="#_language_model_development_basics"></a>Language model development basics:</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>Training data</strong>&#8201;&#8212;&#8201;the text given to the model to learn from. Tokens are extracted from training data.
+<strong>Token</strong>&#8201;&#8212;&#8201;can refer to a word, a character, or a part of a word (like -tion), depending on the language model.
+Token is a part of a  vocabulary which language model uses.
+Given a text prompt, model predicts the next most probable token, therefore it is trained for completion.</p>
+</div>
+<div class="paragraph">
+<p>There exists wide variety of completion tasks: summarization, translation, paraphrasing, coding etc.</p>
+</div>
+<div class="paragraph">
+<p><strong>Language models are only as good as their training data.</strong>
+Language model can be fine-tuned on instructions or dialogues.</p>
+</div>
+<div class="sect2">
+<h3 id="_data_bottleneck_for_pretraining"><a class="anchor" href="#_data_bottleneck_for_pretraining"></a>Data bottleneck for pretraining</h3>
+<div class="paragraph">
+<p>We are running out of training data, LLMs are trained on 1 trillion tokens which are equivalent to 15 million books.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_supervised_fine_tuning_sft_in_more_detail"><a class="anchor" href="#_supervised_fine_tuning_sft_in_more_detail"></a>Supervised fine-tuning (SFT) in more detail</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>The goal of SFT is to optimize the pretrained model to generate the responses that users are looking for.
+<strong>Demonstration data</strong>&#8201;&#8212;&#8201;the examples of expected responses which follow the format (prompt, response) and are used either for model fine-tuning (produces better results) or training from scratch.
+Demonstration data is commonly generated by humans.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_rlhf"><a class="anchor" href="#_rlhf"></a>RLHF</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>Demonstration data doesn’t tell the model how good or how bad a response is.
+<strong>Core idea</strong>:
+1. Train a reward model to act as a scoring function.
+2. Optimize LLM to generate responses for which the reward model will give high scores.</p>
+</div>
+<div class="paragraph">
+<p>Why it works:
+1. Diversity&#8201;&#8212;&#8201;SFT matches output with expected responses, unexpected are marked as wrong;
+2. Negative feedback&#8201;&#8212;&#8201;RL allows both positive and negative scores;
+3. Hallucination&#8201;&#8212;&#8201;[add something here] RLHF HELPS!</p>
+</div>
+<div class="paragraph">
+<p><strong>Reward model</strong>&#8201;&#8212;&#8201;output a score for a pair of (prompt, response).
+To train this we ask labelers to compare two responses and decide which one is better.
+<strong>Comparison data</strong>&#8201;&#8212;&#8201;data produced during labeling process and looks like this: (prompt, winning_response, losing_response).
+<strong>Challenge</strong>: Human preferences are diverse and impossible to capture in a single mathematical formulation plus how do you train the model to give concrete scores.</p>
+</div>
+<div class="paragraph">
+<p>People have experimented with different ways to initialize an RM: e.g. training an RM from scratch or starting with the SFT model as the seed. Starting from the SFT model seems to give the best performance. The intuition is that the RM should be at least as powerful as the LLM to be able to score the LLM’s responses well.</p>
+</div>
+<div class="sect2">
+<h3 id="_fine_tuning_the_reward_model"><a class="anchor" href="#_fine_tuning_the_reward_model"></a>Fine-tuning the reward model:</h3>
+<div class="paragraph">
+<p>Use <a href="https://openai.com/research/openai-baselines-ppo">Proximal Policy Optimization (PPO)</a> to train the SFT model to generate output responses that will maximize the scores by the RM.
+The reward is used to update the policy using PPO.
+Prompts are randomly selected from a distribution, each prompt is the input into the LLM model to get back a response, which is given a score by the RM.</p>
+</div>
+<div class="paragraph">
+<p><a href="https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence"><strong>Kullback–Leibler divergence</strong></a>&#8201;&#8212;&#8201;type of statistical distance: a measure of how one probability distribution P is different from a second, reference probability distribution Q.The model resulting from this phase should not stray too far from the model resulting from the SFT phase.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_hallucination"><a class="anchor" href="#_hallucination"></a>Hallucination</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p><strong>Hallucination</strong> happens when model makes stuff up.</p>
+</div>
+<div class="paragraph">
+<p>Two hypotheses on why models hallucinate:
+1. “lack the understanding of the cause and effect of their actions” (DeepMind,  <a href="https://arxiv.org/abs/2110.10819#deepmind">Pedro A. Ortega et al</a>)
+2. mismatch between the LLM’s internal knowledge and the labeler’s internal knowledge (OpenAI, John Schulman)</p>
+</div>
+<div class="paragraph">
+<p>A couple of solutions (by Schulman)
+1. Verification: asking the LLM to explain (retrieve) the sources where it gets the answer from.
+2. RL&#8201;&#8212;&#8201;punish model more for making things up.</p>
+</div>
+<div class="paragraph">
+<p>Making LLMs respond concisely also seems to help with hallucination – the fewer tokens LLMs have to generate, the less chance they have to make things up.</p>
+</div>
+</div>
+</div>
+<h1 id="_literature" class="sect0"><a class="anchor" href="#_literature"></a>Literature</h1>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://huyenchip.com/2023/05/02/rlhf.html">RLHF: Reinforcement Learning from Human Feedback&#8201;&#8212;&#8201;Chip Huyen</a></p>
+</li>
+<li>
+<p><a href="https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2">State of GPT&#8201;&#8212;&#8201;Andrej Karpathy</a></p>
+</li>
+<li>
+<p><a href="https://youtu.be/4W3MQkApH9Y">RLHF Intro: from Zero to Aligned Intelligent Systems&#8201;&#8212;&#8201;Igor Kotenkov</a></p>
+</li>
+</ol>
+</div>
+</article>
+  </div>
+</main>
+</div>
+<footer class="footer">
+  <p>This page was built using the Antora default UI.</p>
+  <p>The source code for this UI is licensed under the terms of the MPL-2.0 license.</p>
+</footer>
+<script src="../../../_/js/site.js"></script>
+<script async src="../../../_/js/vendor/highlight.js"></script>
+<script src="../../../_/js/vendor/lunr.js"></script>
+<script src="../../../_/js/search-ui.js" id="search-ui-script" data-site-root-path="../../.." data-snippet-length="100" data-stylesheet="../../../_/css/search.css"></script>
+<script async src="../../../search-index.js"></script>
+  </body>
+</html>
