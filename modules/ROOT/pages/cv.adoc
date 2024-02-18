@@ -1,24 +1,30 @@
 = Maryia Zhyrko
 
-Email:: mailto:mzhirko@gmail.com[mzhirko@gmail.com] +
-GitHub:: https://github.com/mzhirko[mzhirko] +
-LinkedIn:: https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
+Email | mailto:mzhirko@gmail.com[mzhirko@gmail.com,role=email] +
+Github | https://github.com/mzhirko[mzhirko] +
+LinkedIn | https://www.linkedin.com/in/mzhirko/[linkedin.com/in/mzhirko]
 
 == Skills
-*Software Development*: Python, C++, Java, SQL, Bash + 
-Frameworks like numpy, pandas, matplotlib, OpenCV, Keras + 
-Tools: Docker, Docker Compose, CI/CD, Git, Gradle, MySQL.
 
-*Operating Systems*: Proficient in Linux (Ubuntu, Debian, Mint, Arch), Windows WSL, FreeBSD, MacOS.
+=== Software Development: 
+*Programming languages:* Python, C++, Java, SQL, Bash + 
+*Frameworks:* numpy, pandas, matplotlib, OpenCV, Keras + 
+*Tools:* Docker, Docker Compose, CI/CD, Git, Gradle, MySQL.
 
-*Machine Learning & AI*: TensorFlow, PyTorch, Scikit-learn, spaCy, NLTK, MLflow + 
-Web Development with Flask, Django, FastAPI + 
-Data Analysis & Visualization: Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter Notebooks.
+=== Operating Systems: 
+*Linux:* Ubuntu, Debian, Mint, Arch; +
+*Other:* Windows WSL, FreeBSD, MacOS (GNU core utils).
 
-*Databases & Data Engineering*: Experience with MySQL, MongoDB, PostgreSQL, Hadoop, Spark, Neo4j, Snowflake + 
-BI & Analytics: Tableau, Power BI + 
-DevOps & CI/CD: Docker, Docker Compose, CI/CD pipelines, Git, Gradle + 
-Cloud Computing: Microsoft Azure, Google Cloud Platform.
+=== Machine Learning & AI: 
+*Frameworks:* TensorFlow, PyTorch, Scikit-learn, spaCy, NLTK, MLflow + 
+*Web Development:* Flask, Django, FastAPI + 
+*Data Analysis & Visualization:* Numpy, Pandas, Matplotlib, Seaborn, OpenCV, Jupyter Notebooks.
+
+=== Databases & Data Engineering: 
+*Data Management:* MySQL, MongoDB, PostgreSQL, Hadoop, Spark, Neo4j, Snowflake + 
+*BI & Analytics:* Tableau, Power BI + 
+*DevOps & CI/CD:* Docker, Docker Compose, CI/CD pipelines, Git, Gradle + 
+*Cloud Computing:* Microsoft Azure, Google Cloud Platform.
 
 == Language Skills
 
@@ -33,14 +39,14 @@ Cloud Computing: Microsoft Azure, Google Cloud Platform.
 * _Belarusian State University of Informatics and Radioelectronics;_ *Degree:  Artificial Intelligence;*
 
 == Work Experience
-*Solutions Engineer @ Qulix Systems* +
-Keywords: System Architecture, Flask, API Development, Python, Chatbot Design, Data Extraction Algorithms, Legal Document Analysis, NLP, Project Management, Collaboration, AI Solutions.
+* _Solutions Engineer_ @ *Qulix Systems* +
+_Keywords: System Architecture, Flask, API Development, Python, Chatbot Design, Data Extraction Algorithms, Legal Document Analysis, NLP, Project Management, Collaboration, AI Solutions._
 
-*Machine Learning Engineer @ Qulix Systems* +
-Keywords: AI, ML, Python, TensorFlow, PyTorch, Chatbot Development, Image Processing, NLP, GPT-3, Data Analysis, Autonomous Content Creation, API Integration, Google Docs Apps Script, Video Editing Tools, Audio2Audio Features, DCT-NET, Stable Diffusion, iOS Deployment.
+* _Machine Learning Engineer_ @ *Qulix Systems* +
+_Keywords: AI, ML, Python, TensorFlow, PyTorch, Chatbot Development, Image Processing, NLP, GPT-3, Data Analysis, Autonomous Content Creation, API Integration, Google Docs Apps Script, Video Editing Tools, Audio2Audio Features, DCT-NET, Stable Diffusion, iOS Deployment._
 
-*Intern @ Qulix Systems* +
-Keywords: NLP, T5, Pegasus, BERT, Data Analysis, Text Summarization, Paraphrasing, Financial Data, Data Scraping, Model Fine-Tuning, Performance Evaluation, ROUGE, BLEU, METEOR.
+* _Intern_ @ *Qulix Systems* +
+_Keywords: NLP, T5, Pegasus, BERT, Data Analysis, Text Summarization, Paraphrasing, Financial Data, Data Scraping, Model Fine-Tuning, Performance Evaluation, ROUGE, BLEU, METEOR._
 
 == Publications
 
@@ -50,7 +56,7 @@ Keywords: NLP, T5, Pegasus, BERT, Data Analysis, Text Summarization, Paraphrasin
 
 == Volunteer Experience
 
-*Data Analyst @ United Nations Development Coordination Office*
-*Head of Volunteer Team @ DEBRA International Congress*
-*Machine Learning Engineer @ Ingot AI*
-*Technical Support Specialist @ EMERGE International Tech Conference*
+* _Machine Learning Engineer_ @ *Ingot AI*
+* _Data Analyst_ @ *United Nations Development Coordination Office*
+* _Head of Volunteer Team_ @ *DEBRA International Congress*
+* _Technical Support Specialist_ @ *EMERGE International Tech Conference*
